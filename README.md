@@ -1,2 +1,1 @@
-# TREX-C20
-TREX A COLOR 
+# Juegos-compatibles-con-dispositivos
